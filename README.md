@@ -7,4 +7,4 @@ __The Main goal__ of the Project is to create a Deep Learning model capable of c
 As of now, the Project has not yet started because of the need for Data Mining. 
 Files present in the current Repository represent a hypothetical example of working with real-life Data from Medicine field.
 
-Dataset used in the hypothetical example: [_Golovenkin, S.E.; Gorban, Alexander; Mirkes, Evgeny; Shulman, V.A.; Rossiev, D.A.; Shesternya, P.A.; et al. (2020): Myocardial infarction complications Database. University of Leicester. Dataset.](https://doi.org/10.25392/leicester.data.12045261.v3)_
+Dataset used in the hypothetical example: [_Golovenkin, S.E.; Gorban, Alexander; Mirkes, Evgeny; Shulman, V.A.; Rossiev, D.A.; Shesternya, P.A.; et al. (2020): Myocardial infarction complications Database. University of Leicester. Dataset._](https://doi.org/10.25392/leicester.data.12045261.v3)
